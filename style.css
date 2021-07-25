@@ -1,0 +1,23 @@
+.heading
+{
+font-size: 16px;
+width: 100%;
+height:7%;
+margin: 0px;
+}
+h3{
+bottom: 10px;
+}
+body{
+    background-size:cover;
+}
+#status,#num_of_obj
+{
+font-size: 18px;
+}
+canvas{
+margin-top:45px;
+box-shadow:gray 10px 10px 10px;
+border:solid 3px rgb(80, 80, 80);
+border-radius:10px;
+}
